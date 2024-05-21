@@ -1,0 +1,12 @@
+Variables
+
+Sell-in
+
+periodo: Periodo de tiempo entre 201701 y 201912
+
+cust_request_qty: Es la cantidad de solicitudes que el cliente hizo de ese producto, en ese mes. 
+En cada solicitud quiere cierta cantidad de toneladas 
+
+tn: Es cuantas toneladas se vendió a ese cliente desde las 00:00:00 del primer dia del mes a las 23:59:59 del ultimo día de ese mes, la factura se emite y entrega con el camión en el portón de salida 
+
+stock: Es cuanto stock de ese producto quedan en los depósitos de La Multinacional a las 23:59:59 del último dia del mes. 
